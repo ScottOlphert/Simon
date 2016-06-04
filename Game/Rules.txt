@@ -1,0 +1,13 @@
+Rules of Simon.
+
+1. Press "Start" to begin the game.
+
+2. Wait and watch for the sequence.
+
+3. Repeat the sequence.
+
+	- If the sequence is wrong you go back to level 1
+
+	- If the sequence is correct you progress to the next level.
+
+4. If you reach Level 30 you win !!! 

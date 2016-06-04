@@ -1,0 +1,10 @@
+
+		Leader Board
+		--------------------
+
+Rank                 Username                              Highest Level   Wins           
+1st	Scotto                        	         5               4
+2nd	Xander                        	         5               3
+3rd	Stef                          	         5               2
+4th	Test                          	         5               2
+5th	BFG                           	         5               1
